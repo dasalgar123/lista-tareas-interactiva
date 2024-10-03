@@ -38,3 +38,4 @@ function Limpiar_campo() {
     mensajeError_1.textContent = '';  // Limpia el mensaje de error
     mensajeError_2.textContent = '';  // Limpia el mensaje de error
 }
+
